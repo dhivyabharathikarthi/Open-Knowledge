@@ -1,0 +1,6 @@
+{
+  "name": "Open Knowledge",
+  "description": "Technical documentation and open knowledge browser with local offline search.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
